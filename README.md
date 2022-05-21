@@ -2,7 +2,7 @@
 **ebisai/ebisai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 **Fav langs**: C#, JavaScript, Python 
 
-| Skill | Ability |
+| Ability | Skill |
 |---|---|
 | Front-end | 0% |
 | Back-end | -1% |
