@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <!--
 **ebisai/ebisai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
@@ -8,6 +9,9 @@
 	</a>
 </p>
 
+
+<!-- in your body -->
+<i class="devicon-devicon-plain"></i>
 <p align="center">
 	<i class="devicon-javascript-plain "></i>
 	<i class="devicon-typescript-plain "></i>
