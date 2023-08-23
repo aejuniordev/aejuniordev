@@ -35,5 +35,5 @@
 <i>What i'm doin'? Nothing.</i> -->
 <p align="center">
 	<a href="http://steamcommunity.com/profiles/76561198345788634"><img src="./src/img/steam.svg" height="48" width="48" ></a>
-	<a href="https://myanimelist.net/profile/aejunior"><img src="./src/img/myanimelist.svg" height="48" width="48" ></a>
+<!-- 	<a href="https://myanimelist.net/profile/aejunior"><img src="./src/img/myanimelist.svg" height="48" width="48" ></a> -->
 </p>
