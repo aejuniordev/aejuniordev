@@ -34,5 +34,6 @@
 </br>
 <i>What i'm doin'? Nothing.</i> -->
 <p align="center">
-	<a href="http://steamcommunity.com/profiles/76561198345788634"><img src="./src/img/steam.svg" height="48" width="48" ></a>
+	<a href="https://steamcommunity.com/profiles/76561198345788634"><img src="./src/img/steam.svg" height="48" width="48" ></a>
+	<a href="https://www.linkedin.com/in/aejunior"><img src="./src/img/linkedin.svg" height="48" width="48" ></a>
 </p>
