@@ -10,9 +10,8 @@
 </p>
 
 
-<!-- in your body -->
-<i class="devicon-devicon-plain"></i>
 <p align="center">
+	<i class="devicon-devicon-plain"></i>
 	<i class="devicon-javascript-plain "></i>
 	<i class="devicon-typescript-plain "></i>
 	<i class="devicon-csharp-plain "></i>
@@ -25,6 +24,9 @@
 </p>
           
 <p align="center">
-	<a href="https://steamcommunity.com/profiles/76561198345788634"><img src="./src/img/steam.svg" height="48" width="48" ></a>
-	<a href="https://www.linkedin.com/in/aejunior"><img src="./src/img/linkedin.svg" height="48" width="48" ></a>
+	<a href="https://steamcommunity.com/profiles/76561198345788634"><img src="./assets/icons/steam.svg"></a>
+	<a href="https://www.linkedin.com/in/aejunior"><img src="./assets/icons/linkedin.svg"></a>
+	<a href="https://myanimelist.net/profile/aejunior"><img src="./assets/icons/myanimelist.svg"></a>
+	<a href="https://twitter.com/aejunior_"><img src="./assets/icons/twitter.svg"></a>
+	
 </p>
