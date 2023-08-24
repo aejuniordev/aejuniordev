@@ -1,8 +1,5 @@
-<!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<!--
-**ebisai/ebisai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
--->
+
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
 		<img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aejunior&show_icons=true&theme=transparent" />
@@ -28,5 +25,4 @@
 	<a href="https://www.linkedin.com/in/aejunior"><img src="./assets/icons/linkedin.svg"></a>
 	<a href="https://myanimelist.net/profile/aejunior"><img src="./assets/icons/myanimelist.svg"></a>
 	<a href="https://twitter.com/aejunior_"><img src="./assets/icons/twitter.svg"></a>
-	
 </p>
