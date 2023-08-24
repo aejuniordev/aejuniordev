@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-		<img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aejunior&show_icons=true&theme=transparent" />
+		<img alt="aejunior's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aejunior&show_icons=true&theme=transparent" />
 	</a>
 </p>
 
@@ -24,5 +24,5 @@
 	<a href="https://steamcommunity.com/profiles/76561198345788634"><img src="./assets/icons/steam.svg"></a>
 	<a href="https://www.linkedin.com/in/aejunior"><img src="./assets/icons/linkedin.svg"></a>
 	<a href="https://myanimelist.net/profile/aejunior"><img src="./assets/icons/myanimelist.svg"></a>
-	<a href="https://twitter.com/aejunior_"><img src="./assets/icons/twitter.svg"></a>
+	<a href="https://twitter.com/intent/user?user_id=1609218756978393089"><img src="./assets/icons/twitter.svg"></a>
 </p>
