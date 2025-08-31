@@ -5,7 +5,7 @@
 ---
 
 - 💻 Working with SQL Server stored procedures, .NET, React & Python
-- 📫 Contact me at [aejunior@icloud.com](mailto:aejunior@icloud.com)
+- 📫 Contact me at [aejunior@icloud.com](mailto:hello@aejunior.dev)
 
 ## My Socials
 
